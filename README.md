@@ -1,8 +1,8 @@
 # JarekParal
 
-Hi, I'm Jaroslav Páral, but everybody calls me Jarek. There is a list of my project, which I'm making in school or during free time.
+Hi, I'm Jaroslav Páral, but everybody calls me Jarek. There is a list of my projects which I make at school or during my free time.
 
-I study last semester of Master degree on [Faculty of Informatics Masaryk University](https://www.fi.muni.cz/) with focus on Embedded system. Also, I cooperate with [Robotárna](http://helceletka.cz/robotarna) (Department of Youth Centre Helceletova Brno) where I'm teaching courses, [making camps](http://robotickytabor.cz) and leading projects in the robotics field.
+I study last semester of Master's degree at [Faculty of Informatics Masaryk University](https://www.fi.muni.cz/) with focus on Embedded system. Also, I cooperate with [Robotárna](http://helceletka.cz/robotarna) (Department of Youth Centre Helceletova Brno) where I teach courses, [organize camps](http://robotickytabor.cz) and lead projects in the robotics field.
 
 Contact: paral.jarek@gmail.com
 
@@ -24,14 +24,14 @@ Contact: paral.jarek@gmail.com
 
 * [[HW/C] YuniControl - Universal remote control](https://yunicontrol.bitbucket.io/en.html) - The goal of this work is to create universal remote controller which, unlike conventional controllers, can be arbitrarily re-arranged by the user.
 
-## Team project
+## Team projects
 
 Mainly developed on [Robotárna](http://helceletka.cz/robotarna) and [GitHub/RoboticsBrno](https://github.com/RoboticsBrno/).
 
 ### [[HW - Eagle/C++] RB3201-RBControl](https://github.com/RoboticsBrno/RB3201-RBControl)
 
 RB3201-RBControl (RBC) is a universal controller board for hobby robots base on EPS32 and development board ESP32-DEVKITC.
-Part of project [Mickoflus](http://www.mickoflus.cz).
+Part of the project [Mickoflus](http://www.mickoflus.cz).
 Software library [RB3201-RBControl-libary](https://github.com/RoboticsBrno/RB3201-RBControl-library).
 
 My role:
@@ -65,9 +65,7 @@ My role: firmware development
 * [Robotic Day 2015](https://www.youtube.com/watch?v=9IQIQimwZYA)
 * [Robotic Day 2016](https://www.youtube.com/watch?v=W8ce3eepPms)
 
-
-
-## Presentation
+## Presentations
 
 * [[C] FI-MUNI_PV198_NXP-FRDM-programming](https://github.com/JarekParal/FI-MUNI_PV198_NXP-FRDM-programming) - How to start program NXP Kinetis microcontrollers (FRDM-KV31F). Presentation in English.
 
