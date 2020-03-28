@@ -22,7 +22,7 @@ Contact: paral.jarek@gmail.com
 
 * [[HW - Eagle] People-counter-74xx](https://github.com/JarekParal/People-counter-74xx) - Simple board with LED displays, decade counter, BCD to 7-segment decoder and input for sensor (e.g. PIR, laser...).
 
-* [[HW/C] YuniControl - Universal remote control](https://yunicontrol.bitbucket.io/en.html) - The goal of this work is to create universal remote controller which, unlike conventional controllers, can be arbitrarily re-arranged by the user.
+* [[HW/C] YuniControl - Universal remote control](https://jarekparal.github.io/yunicontrol/en.html) - The goal of this work is to create universal remote controller which, unlike conventional controllers, can be arbitrarily re-arranged by the user.
 
 ## Team projects
 
