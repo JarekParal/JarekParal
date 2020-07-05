@@ -32,9 +32,13 @@ Summary of basic commands.
 
 Interactive web tutorial for Git branching and necessary commands. Very good way to learn with `git`.
 
+### [The life-changing magic of git rebase -i](https://opensource.com/article/20/4/git-rebase-i)
+
+How to use interactive `rebase`.
+
 ### [[CZ] Git: fixup!](https://filip-prochazka.com/blog/git-fixup)
 
-How to use interactive `rebase` and `fixup`.
+How to use interactive `rebase` and `fixup` in Czech language.
 
 ### [Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub](https://github.com/jlord/git-it-electron/tree/master/resources/contents/en-US/challenges)
 
