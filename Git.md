@@ -16,6 +16,19 @@ Show the detailed `git log` tree history for all branches
 git log --all --decorate --oneline --graph
 ```
 
+## Own Git aliases/shortcuts
+
+You can set your own [Git aliases/shortcuts](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases). There are a few examples of my shortcuts:
+```shell
+git config --global alias.last 'log -1 HEAD'
+git config --global alias.unstage 'reset HEAD --'
+git config --global alias.l log
+git config --global alias.st status
+git config --global alias.br branch
+git config --global alias.ch checkout
+git config --global alias.co commit
+```
+
 ## Plugins
 
 ### VS Code
