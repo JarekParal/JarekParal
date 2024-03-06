@@ -10,11 +10,25 @@ git mergetool
 
 ## Git commands
 
+### `git log`
+
 Show the detailed `git log` tree history for all branches 
 
 ```
 git log --all --decorate --oneline --graph
 ```
+
+### `git clean`
+
+Remove all unstashed files with `git clean`.
+
+To remove also all ignored files, use `git clean -x`.
+
+Other options:
+- `-n` - dry run
+- `-d` - remove also empty directories
+
+More info on [this](https://git-scm.com/book/id/v2/Git-Tools-Stashing-and-Cleaning#_git_clean) page.
 
 ## Own Git aliases/shortcuts
 
